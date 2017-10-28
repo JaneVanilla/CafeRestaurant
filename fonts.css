@@ -1,0 +1,17 @@
+ @font-face {
+    font-family: Fertigo Pro; /* Имя шрифта */
+    src: url(fonts/Fertigo Pro Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+ @font-face {
+    font-family: Fertigo; /* Имя шрифта */
+    src: url(fonts/Fertigo Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+  @font-face {
+    font-family: Fertigo Pro; /* Имя шрифта */
+    src: url(fonts/Fertigo_PRO.ttf); /* Путь к файлу со шрифтом */
+   }
+
+ @font-face {
+    font-family: Georgia; /* Имя шрифта */
+    src: url(fonts/Georgia.ttf); /* Путь к файлу со шрифтом */
+   }
